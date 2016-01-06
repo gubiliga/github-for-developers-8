@@ -16,3 +16,4 @@ Markdown is a fun and easy way to format your messages on GitHub and to keep the
 - [Writing on GitHub](https://help.github.com/articles/writing-on-github/)
 
 We also love to use emoji to brighten our co-worker's day. Here is a fun [emoji cheatsheet](http://www.emoji-cheat-sheet.com/).
+ [Writing on GitHub](https://help.github.com/articles/writing-on-github/)
